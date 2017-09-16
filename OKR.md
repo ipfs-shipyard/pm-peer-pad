@@ -31,6 +31,13 @@ Create a fully distributed, private, permanent  and censorship resistant _docume
   - [ ] Users can configure their IPFS node
   - [ ] Users can retrieve their previously created or accessed documents ⭐
   - [ ] Users can share easily docs with other users to view or collaborate ⭐
+- Marketing
+  - [ ] User can recognize that PeerPad is connected with IPFS and made by Protocol Labs (brand recognition)⭐
+  - [ ] User understand what benefits he can get from using PeerPad ⭐
+  - [ ] Get 100 mentions in social media in the first month online
+  - [ ] Get published product reviews in over 10 publications in the first month online
+  - [ ] Get at least 80% of positive mentions in social media in the first month online
+  - [ ] Get 10k social media reach in the first month online
 - Security
   - [ ] Peerpad is audited
   - [ ] Bugbounty and Responsible Disclosure programs are in place
