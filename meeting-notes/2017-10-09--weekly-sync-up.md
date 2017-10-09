@@ -25,7 +25,12 @@ Agatha:
 - Finished designs
 - Applied first review
 
-Next Steps:
+David:
+- Reviewed Architecture with Pedro
+- Sync'ed up with Mozfest people (we are back at 2 sessions)
+- Talked with people to develop the Front end
+
+#### Next Steps:
 
 Finish by Wednesday
 - (@diasdavid, @pgte) review the entire flow of the current design (multiple times)
@@ -35,3 +40,4 @@ Other
 - (@diasdavid) Ask for the dates of the sessions
 - (@pgte) Encryption at rest
 - (@agatha) Design the Flipchart Webpage
+- (@diasdavid) Reach out to Bust out/Mozfest to implement the design
