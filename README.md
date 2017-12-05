@@ -1,6 +1,11 @@
-# 🔒 peerpad 
+# 🔒 peerpad
 
 > **PeerPad Internal Repo for Project Management and Design/UX Work**
+
+## Captain
+
+- 2017 Q4 ~ present - Pedro Teixeira
+- 2017 Q3 ~ Q4 - David Dias
 
 ## Docs, Assets and Code
 
@@ -10,7 +15,14 @@
   - [Project Requirements Document](https://docs.google.com/document/d/1PbSld9mzu60qhjp7XD0LH2cpTsYnr1rVO2DANzzv0OQ/edit)
 - Design
   - [Google Drive](https://drive.google.com/drive/u/1/folders/0BzTbnlcINi_jWGNaVXY5UmNRTkk)
+  - Invision
+    - [Wireframes](https://projects.invisionapp.com/d/main#/projects/prototypes/12059771)
+    - [Screens](https://projects.invisionapp.com/d/main#/projects/prototypes/12162113)
+    - [(extra) p2p-flipchart](https://projects.invisionapp.com/d/main#/projects/prototypes/12266560)
+  - [Design Research](https://docs.google.com/document/d/1vFIgnpqLjYK62rzUwdX9SqlrjGbHm3GZpi2aIV0v3YM/edit)
+  - [Design Tools Research](https://docs.google.com/document/d/1qJyfwgcMg8l3Tk3aYxF38iyYRhkEf3nlLNqOw4ZiW_8/edit)
 - [Peerpad Implementation](https://github.com/ipfs-shipyard/peerpad)
+- [Flipchard Implementation](https://github.com/ipfs-shipyard/p2p-flipchart)
 - [Making of Peerpad](https://gist.github.com/pgte/4ef8b7ebde22106623ebe2bf0eb67f6d)
 - [Architecture](https://github.com/ipfs-shipyard/peerpad/blob/master/docs/ARCHITECTURE.md)
 - [Main Google Drive Folder](https://drive.google.com/drive/u/1/folders/0BzTbnlcINi_jdHM0RTFILXZLd2M)
