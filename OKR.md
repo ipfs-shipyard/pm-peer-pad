@@ -1,5 +1,10 @@
 # Peerpad Objectives and Key Results
 
+> **Important:** This OKR list was used during Q3+Q4 2017. The current OKRs are tracked on the [IPFS project OKR Spreadsheet on the Dynamic Data tab](https://docs.google.com/spreadsheets/d/1clB-W489rJpbOEs2Q7Q2Jf1WMXHQxXgccBcUJS9QTiI/edit#gid=2079514081).
+
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+
 ## Overall
 
 **Objective:** Create a fully distributed, private, permanent  and censorship resistant _document collaborative editing tool_ that is delightful to use.
