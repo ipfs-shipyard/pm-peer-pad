@@ -4,7 +4,7 @@
 
 ## Captain
 
-- 2017 Q4 ~ present - Pedro Teixeira
+- **2017 Q4 ~ present - Pedro Teixeira**
 - 2017 Q3 ~ Q4 - David Dias
 
 ## Docs, Assets and Code
