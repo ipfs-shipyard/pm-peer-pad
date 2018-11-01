@@ -1,11 +1,12 @@
-# 🔒 peerpad
+# 🔒 Peer Pad
 
 > **PeerPad Internal Repo for Project Management and Design/UX Work**
 
-## Captain
+## Team
 
-- **2017 Q4 ~ present - Pedro Teixeira**
-- 2017 Q3 ~ Q4 - David Dias
+- Project Manager - Arkadiy Kukarkin
+- Architect and Developer - Pedro Teixeira
+- Lead Developer - Jim Pick
 
 ## Docs, Assets and Code
 
