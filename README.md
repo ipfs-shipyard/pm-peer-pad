@@ -7,6 +7,7 @@
 - Project Manager - Arkadiy Kukarkin
 - Architect and Developer - Pedro Teixeira
 - Lead Developer - Jim Pick
+- (Temporary, Q4) Developer - Victor Bjelkholm
 
 ## Docs, Assets and Code
 
