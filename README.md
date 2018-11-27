@@ -1,6 +1,6 @@
-# 🔒 Peer Pad
+# Peer Pad
 
-> **PeerPad Internal Repo for Project Management and Design/UX Work**
+> **PeerPad Coordination Repo for Project Management and Design/UX Work**
 
 ## Team
 
